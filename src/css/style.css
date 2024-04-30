@@ -474,6 +474,10 @@ hr {
 }
 
 
+.navbar {
+  background-color: #000914;
+}
+
 /* reduce motion */
 @media screen and (prefers-reduced-motion: reduce){
   html{
